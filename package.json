@@ -1,0 +1,36 @@
+{
+  "Title": "StART",
+  "Year": "2010",
+  "Rated": "N/A",
+  "Released": "23 Sep 2010",
+  "Runtime": "12 min",
+  "Genre": "Animation, Short",
+  "Director": "Goran Gomaz",
+  "Writer": "Goran Gomaz",
+  "Actors": "Goran Gomaz",
+  "Plot": "N/A",
+  "Language": "English",
+  "Country": "Croatia",
+  "Awards": "N/A",
+  "Poster": "N/A",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "9.2/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "9.2",
+  "imdbVotes": "14",
+  "imdbID": "tt1773696",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
